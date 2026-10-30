@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "Z4S Private Anisette",
+      "address": "http://192.168.8.203:6970",
+      "kind": 0
+    }
+  ]
+}
